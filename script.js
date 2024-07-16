@@ -19,6 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "Deepak",
     "Kundan",
     "Rohit",
+    "Anuj",
+    "Simant"
   ];
 
   shuffleArray(names);
